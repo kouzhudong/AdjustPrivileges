@@ -53,6 +53,7 @@ Windows-driver-samples\general\cancel\sys\cancel.c
 https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/sddl-for-device-objects  
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-dtyp/4f4251cc-23b6-44b6-93ba-69688422cb06  
 https://learn.microsoft.com/en-us/windows/win32/secauthz/security-descriptor-definition-language  
+https://learn.microsoft.com/en-us/windows-hardware/drivers/driversecurity/windows-security-model  
 
 最后本程序无视UAC。  
 
